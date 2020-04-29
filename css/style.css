@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,300&display=swap');
+body{font-family: 'Lato', sans-serif;}
+body.bg{
+	background-image: url("../assets/background.jpg"); 
+	background-size: cover; 
+	background-repeat: no-repeat; 
+}
+img.logo{
+	height: 120px;
+}
+h1, h4{
+	color: #fff;
+}
+h1{
+	font-weight: 700; 
+	font-size: 64px;
+}
+h4{
+	font-weight: 400;
+	margin-top: 20px;
+}
+h5{
+	color: #f0f0f0;
+	font-weight: 400;
+	margin-top: 25px;
+}
+.content{
+	margin-top: 50px;
+}
